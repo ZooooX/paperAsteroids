@@ -1,0 +1,14 @@
+body,html,#mainCanvas{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#mainCanvas{
+    background-color: #000;
+    /*cursor: none;*/
+}
